@@ -1,2 +1,1 @@
-# test2
-test fr
+print("hello")
